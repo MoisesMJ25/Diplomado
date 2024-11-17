@@ -1,5 +1,7 @@
 Diplomado Desarrollo de Aplicaciones con Python.
+
 Pontificia Universidad Catolica de Chile
+
 Alumno: Moisés Marquina Juliao
 
 Mini proyectos.
